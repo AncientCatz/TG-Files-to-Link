@@ -1,12 +1,11 @@
 {
- "name": "TG Files to Link",
- "description": "Telegram files to Direct link!!",
- "logo": "https://telegra.ph/file/c3d25aa057a3aa2282d50.png",
+ "name": "Fast Sharer",
+ "description": "A Telegram bot that can stream Telegram files to users over HTTP.",
+ "logo": "https://telegra.ph/file/9880e6a6f05bd09d6f34d.jpg",
  "keywords": [
-   "telegram",
-   "FiletoLinkBot"
+   "telegram"
   ],
- "repository": "https://github.com/TGExplore/TG-Files-to-Link",
+ "repository": "https://github.com/AncientCatz/TG-Files-to-Link",
  "env": {
    "TG_API_ID": {
       "description": "Your Telegram API ID. Get this value from my.telegram.org!",
