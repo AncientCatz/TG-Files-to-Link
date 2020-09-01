@@ -47,4 +47,3 @@ Watch our YouTube video for more details - [How To Create Your Own Telegram File
 ## Issue Bot stopped responding 
 
    If bot is not responding, open `https://<appname>.herokuapp.com/` and try again.
-   Issue - https://github.com/tulir/tgfilestream/issues/9
